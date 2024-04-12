@@ -2,7 +2,7 @@
 
 ## Visión de Nyanhalla
 
-Nyanhalla (Networked Yielding Arcade Nodes Hosting Advanced Logistics Linked Across Metaverses) es nuestra visión para revolucionar la forma en que los jugadores interactúan dentro de los mundos virtuales. No buscamos simplemente ofrecer un espacio de juego; nuestro objetivo es construir una comunidad próspera donde cada acción y cada interacción se recompensa. En Nyanhalla, cada jugador no solo participa en juegos, sino que también contribuye activamente al crecimiento y la evolución de nuestra comunidad, siendo recompensado con nuestra criptomoneda, NYAN(Nyanhalla’s Yield And Nexus), que adquiere más valor con cada contribución.
+Nyanhalla (Networked Yielding Arcade Nodes Hosting Advanced Logistics Linked Across Metaverses) es nuestra visión para revolucionar la forma en que los jugadores interactúan dentro de los mundos virtuales. No buscamos simplemente ofrecer un espacio de juego; nuestro objetivo es construir una comunidad próspera donde cada acción y cada interacción se recompensa. En Nyanhalla, cada jugador no solo participa en juegos, sino que también contribuye activamente al crecimiento y la evolución de nuestra comunidad, siendo recompensado con nuestra criptomoneda, NYAN(Nyanhalla’s Yield Asset Nexus), que adquiere más valor con cada contribución.
 
 ## Roadmap: Fases de Desarrollo de Nyanhalla
 
